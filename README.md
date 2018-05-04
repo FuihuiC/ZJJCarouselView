@@ -19,4 +19,5 @@ ZJJCarouselView *view = [[ZJJCarouselView alloc] initWithFrame:CGRectMake(0, 0, 
         NSLog(@"点击了第%ld张",index);
        
     };
-    ```
+    
+
